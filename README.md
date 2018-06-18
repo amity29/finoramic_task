@@ -1,1 +1,1 @@
-# finormic_task
+# finoramic_task
